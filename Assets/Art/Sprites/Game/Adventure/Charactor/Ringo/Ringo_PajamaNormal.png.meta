@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 132c7cb81c85e51489be80a3934968ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3302535421526249235
+    second: Ringo_PajamaNormal_Wait_1
+  - first:
+      213: -6984927450824460878
+    second: Ringo_PajamaNormal_Walk_1
+  - first:
+      213: 465673384335530097
+    second: Ringo_PajamaNormal_Walk_2
+  - first:
+      213: -111570081879460315
+    second: Ringo_PajamaNormal_Walk_3
+  - first:
+      213: -8595878210347055827
+    second: Ringo_PajamaNormal_Walk_4
+  - first:
+      213: -2691016272181302385
+    second: Ringo_PajamaNormal_Walk_5
+  - first:
+      213: -5116846381372809698
+    second: Ringo_PajamaNormal_Walk_6
+  - first:
+      213: -929833538357404890
+    second: Ringo_PajamaNormal_Walk_7
+  - first:
+      213: 7532563808280242300
+    second: Ringo_PajamaNormal_Walk_8
+  - first:
+      213: 1415647665350313201
+    second: Ringo_PajamaNormal_Walk_9
+  - first:
+      213: 1135551377872895318
+    second: Ringo_PajamaNormal_GetUp_1
+  - first:
+      213: 1709290270007762825
+    second: Ringo_PajamaNormal_Wait_2
+  - first:
+      213: -5752340624350976
+    second: Ringo_PajamaNormal_Wait_3
+  - first:
+      213: 980935025265053188
+    second: Ringo_PajamaNormal_GetUp_2
+  - first:
+      213: 9097820852151117380
+    second: Ringo_PajamaNormal_GetUp_3
+  - first:
+      213: 1366444291223886496
+    second: Ringo_PajamaNormal_GetUp_4
+  - first:
+      213: 6122595362919822088
+    second: Ringo_PajamaNormal_Syagami
+  - first:
+      213: 9056574808672027442
+    second: Ringo_PajamaNormal_Suwari
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Wait_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f8732e776f4dd20800000000000000
+      internalID: 3302535421526249235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 35
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5bbbfbd7d801f90800000000000000
+      internalID: -6984927450824460878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 65
+        height: 180
+      alignment: 9
+      pivot: {x: 0.41, y: 0.559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1785caec977667600800000000000000
+      internalID: 465673384335530097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 69
+        height: 180
+      alignment: 9
+      pivot: {x: 0.42, y: 0.559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52673060a9f937ef0800000000000000
+      internalID: -111570081879460315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 61
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0.559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d254eb38f4e45b880800000000000000
+      internalID: -8595878210347055827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 38
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b66d345f697aad0800000000000000
+      internalID: -2691016272181302385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 65
+        height: 180
+      alignment: 9
+      pivot: {x: 0.41, y: 0.559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ed70c835f4df8b0800000000000000
+      internalID: -5116846381372809698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 69
+        height: 180
+      alignment: 9
+      pivot: {x: 0.43, y: 0.559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b56f5c2519813f0800000000000000
+      internalID: -929833538357404890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 61
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0.559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78e188dfda098860800000000000000
+      internalID: 7532563808280242300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 38
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4015c1d0465a310800000000000000
+      internalID: 1415647665350313201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_GetUp_1
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 186
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65db15636f942cf00800000000000000
+      internalID: 1135551377872895318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Wait_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 47
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f18d1c17e98b710800000000000000
+      internalID: 1709290270007762825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Wait_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 48
+        height: 181
+      alignment: 9
+      pivot: {x: 0.51, y: 0.553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0016574d6409beff0800000000000000
+      internalID: -5752340624350976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_GetUp_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 21
+        width: 186
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e89a0553bfc9d00800000000000000
+      internalID: 980935025265053188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_GetUp_3
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 42
+        width: 186
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446eb9adcd3f14e70800000000000000
+      internalID: 9097820852151117380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_GetUp_4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 63
+        width: 186
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa92c7d7d596f210800000000000000
+      internalID: 1366444291223886496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Syagami
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 0
+        width: 35
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8033a4e2b04d7f450800000000000000
+      internalID: 6122595362919822088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ringo_PajamaNormal_Suwari
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 35
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 1.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c5a00eca6fad70800000000000000
+      internalID: 9056574808672027442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ringo_PajamaNormal_Walk_1: -6984927450824460878
+      Ringo_PajamaNormal_Walk_9: 1415647665350313201
+      Ringo_PajamaNormal_Syagami: 6122595362919822088
+      Ringo_PajamaNormal_Walk_3: -111570081879460315
+      Ringo_PajamaNormal_Walk_4: -8595878210347055827
+      Ringo_PajamaNormal_Walk_6: -5116846381372809698
+      Ringo_PajamaNormal_Suwari: 9056574808672027442
+      Ringo_PajamaNormal_GetUp_3: 9097820852151117380
+      Ringo_PajamaNormal_Wait_1: 3302535421526249235
+      Ringo_PajamaNormal_Walk_5: -2691016272181302385
+      Ringo_PajamaNormal_GetUp_1: 1135551377872895318
+      Ringo_PajamaNormal_GetUp_4: 1366444291223886496
+      Ringo_PajamaNormal_Walk_2: 465673384335530097
+      Ringo_PajamaNormal_Walk_8: 7532563808280242300
+      Ringo_PajamaNormal_Wait_2: 1709290270007762825
+      Ringo_PajamaNormal_Walk_7: -929833538357404890
+      Ringo_PajamaNormal_GetUp_2: 980935025265053188
+      Ringo_PajamaNormal_Wait_3: -5752340624350976
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

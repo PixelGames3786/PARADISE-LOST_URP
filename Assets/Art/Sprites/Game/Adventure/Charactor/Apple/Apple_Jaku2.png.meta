@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: 11add021761410c43916081febc37be0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -185010399536441769
+    second: Apple_Attack2_0
+  - first:
+      213: 1472740527623402836
+    second: Apple_Attack2_1
+  - first:
+      213: 1120544020090405132
+    second: Apple_Attack2_2
+  - first:
+      213: 8170172780467298103
+    second: Apple_Attack2_3
+  - first:
+      213: -4187754046106998483
+    second: Apple_Attack2_4
+  - first:
+      213: 5520003710738651607
+    second: Apple_Attack2_5
+  - first:
+      213: -6330693356035636130
+    second: Apple_Attack2_6
+  - first:
+      213: 8225935172239978606
+    second: Apple_Attack2_7
+  - first:
+      213: -6247769947715106202
+    second: Apple_Attack2_8
+  - first:
+      213: -4632158138045879552
+    second: Apple_Attack2_9
+  - first:
+      213: -3841559917975956619
+    second: Apple_Attack2_10
+  - first:
+      213: 8421373475618605855
+    second: Apple_Attack2_11
+  - first:
+      213: -5393134101173705224
+    second: Apple_Attack2_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Apple_Attack2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 179
+        height: 169
+      alignment: 9
+      pivot: {x: 0.296, y: 0.537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75690e79506be6df0800000000000000
+      internalID: -185010399536441769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Attack2_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 150
+        height: 169
+      alignment: 9
+      pivot: {x: 0.353, y: 0.537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455705bf4b9307410800000000000000
+      internalID: 1472740527623402836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Attack2_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 98
+        height: 170
+      alignment: 9
+      pivot: {x: 0.541, y: 0.534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c014da079d8fc8f00800000000000000
+      internalID: 1120544020090405132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Attack2_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 95
+        height: 168
+      alignment: 9
+      pivot: {x: 0.56, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f915d3bd8426170800000000000000
+      internalID: 8170172780467298103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Attack2_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 116
+        height: 161
+      alignment: 9
+      pivot: {x: 0.493, y: 0.563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29661bf1eb12e5c0800000000000000
+      internalID: -4187754046106998483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Attack2_5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 116
+        height: 164
+      alignment: 9
+      pivot: {x: 0.493, y: 0.553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d95a61f02efa9c40800000000000000
+      internalID: 5520003710738651607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Attack2_6
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 0
+        width: 123
+        height: 164
+      alignment: 9
+      pivot: {x: 0.481, y: 0.553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5402932febd428a0800000000000000
+      internalID: -6330693356035636130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Attack2_7
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 0
+        width: 126
+        height: 163
+      alignment: 9
+      pivot: {x: 0.47, y: 0.556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6071cec474682270800000000000000
+      internalID: 8225935172239978606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Attack2_8
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 0
+        width: 124
+        height: 164
+      alignment: 9
+      pivot: {x: 0.476, y: 0.553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a841ca5567b49a0800000000000000
+      internalID: -6247769947715106202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Attack2_9
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 227
+        height: 164
+      alignment: 9
+      pivot: {x: 0.26, y: 0.553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b275637b447bfb0800000000000000
+      internalID: -4632158138045879552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Attack2_10
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 0
+        width: 140
+        height: 164
+      alignment: 9
+      pivot: {x: 0.423, y: 0.553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5731aa9ab9900bac0800000000000000
+      internalID: -3841559917975956619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Attack2_11
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 0
+        width: 121
+        height: 164
+      alignment: 9
+      pivot: {x: 0.497, y: 0.553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc427ce8abed470800000000000000
+      internalID: 8421373475618605855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Attack2_12
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 0
+        width: 120
+        height: 164
+      alignment: 9
+      pivot: {x: 0.49, y: 0.553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5ee79eb1db725b0800000000000000
+      internalID: -5393134101173705224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Apple_Attack2_1: 1472740527623402836
+      Apple_Attack2_0: -185010399536441769
+      Apple_Attack2_4: -4187754046106998483
+      Apple_Attack2_11: 8421373475618605855
+      Apple_Attack2_5: 5520003710738651607
+      Apple_Attack2_12: -5393134101173705224
+      Apple_Attack2_7: 8225935172239978606
+      Apple_Attack2_6: -6330693356035636130
+      Apple_Attack2_8: -6247769947715106202
+      Apple_Attack2_3: 8170172780467298103
+      Apple_Attack2_2: 1120544020090405132
+      Apple_Attack2_9: -4632158138045879552
+      Apple_Attack2_10: -3841559917975956619
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 6bcc90cbb45cffe4cb1498a690a90785
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4222245027339227334
+    second: Apple_RunKari_0
+  - first:
+      213: 1046821615913829605
+    second: Apple_RunKari_1
+  - first:
+      213: 8903627883302782764
+    second: Apple_RunKari_2
+  - first:
+      213: 4091906468741020955
+    second: Apple_RunKari_3
+  - first:
+      213: -953854152954116176
+    second: Apple_RunKari_4
+  - first:
+      213: -2445574320775103546
+    second: Apple_RunKari_5
+  - first:
+      213: 8771237812333730877
+    second: Apple_RunKari_6
+  - first:
+      213: 8411763823469277415
+    second: Apple_RunKari_7
+  - first:
+      213: 4771167189449712606
+    second: Apple_RunKari_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Apple_RunKari_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 99
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d6316b7d689a30800000000000000
+      internalID: 4222245027339227334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_RunKari_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 115
+        height: 164
+      alignment: 9
+      pivot: {x: 0.45, y: 0.548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e48ebf96be078e00800000000000000
+      internalID: 1046821615913829605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_RunKari_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 130
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27868ce26a009b70800000000000000
+      internalID: 8903627883302782764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_RunKari_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 135
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d7e63e04f59c830800000000000000
+      internalID: 4091906468741020955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_RunKari_4
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 93
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b783ad93ba33c2f0800000000000000
+      internalID: -953854152954116176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_RunKari_5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 115
+        height: 162
+      alignment: 9
+      pivot: {x: 0.48, y: 0.555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbf16acc139f0ed0800000000000000
+      internalID: -2445574320775103546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_RunKari_6
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 134
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c50ac7152b9b970800000000000000
+      internalID: 8771237812333730877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_RunKari_7
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 0
+        width: 135
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e03e5841a69cb470800000000000000
+      internalID: 8411763823469277415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_RunKari_8
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1
+        width: 93
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed32623b747963240800000000000000
+      internalID: 4771167189449712606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Apple_RunKari_8: 4771167189449712606
+      Apple_RunKari_6: 8771237812333730877
+      Apple_RunKari_5: -2445574320775103546
+      Apple_RunKari_0: 4222245027339227334
+      Apple_RunKari_2: 8903627883302782764
+      Apple_RunKari_3: 4091906468741020955
+      Apple_RunKari_1: 1046821615913829605
+      Apple_RunKari_7: 8411763823469277415
+      Apple_RunKari_4: -953854152954116176
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

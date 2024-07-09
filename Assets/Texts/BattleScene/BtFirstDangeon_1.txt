@@ -1,0 +1,9 @@
+#BattleScene=FirstDangeon_1
+#btivent=1
+#EnemyAllMove
+#GekihaWait
+#CharaStop
+#CharaInitialize
+#AdIventStart=5,1
+#BattleEnd
+#IventEnd

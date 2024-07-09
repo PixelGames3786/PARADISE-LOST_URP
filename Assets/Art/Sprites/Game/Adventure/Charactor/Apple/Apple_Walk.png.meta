@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 08dd4ecaa2696d448afe931f48d358ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7293598183456022363
+    second: Apple_0
+  - first:
+      213: 3211865404380153573
+    second: Apple_1
+  - first:
+      213: 4808522734667448011
+    second: Apple_2
+  - first:
+      213: -8577097333041121892
+    second: Apple_3
+  - first:
+      213: 1419576285154770477
+    second: Apple_4
+  - first:
+      213: -7706788487438311687
+    second: Apple_5
+  - first:
+      213: 8638710384840876012
+    second: Apple_6
+  - first:
+      213: -4689406079702324653
+    second: Apple_7
+  - first:
+      213: -4804661220611782958
+    second: Apple_8
+  - first:
+      213: 542562350195365616
+    second: Apple_9
+  - first:
+      213: 1535906679059638393
+    second: Apple_10
+  - first:
+      213: -6207369124864647917
+    second: Apple_11
+  - first:
+      213: 7209791866757004406
+    second: Apple_12
+  - first:
+      213: -1462588236305530756
+    second: Apple_13
+  - first:
+      213: 4023135878370671054
+    second: Apple_14
+  - first:
+      213: -337911150936919937
+    second: Apple_15
+  - first:
+      213: 9139289913481491577
+    second: Apple_16
+  - first:
+      213: 833499657658464583
+    second: Apple_17
+  - first:
+      213: -2917529766135685665
+    second: Apple_18
+  - first:
+      213: -2002299124436659549
+    second: Apple_19
+  - first:
+      213: -7009767179093901278
+    second: Apple_0
+  - first:
+      213: 2779524369833756694
+    second: Apple_1
+  - first:
+      213: -2617316864772669837
+    second: Apple_2
+  - first:
+      213: 7959704928548189368
+    second: Apple_3
+  - first:
+      213: 6760281045078812907
+    second: Apple_4
+  - first:
+      213: -413481103540221170
+    second: Apple_5
+  - first:
+      213: 8018042748572744755
+    second: Apple_6
+  - first:
+      213: 365314256709471194
+    second: Apple_7
+  - first:
+      213: -694751116869384263
+    second: Apple_8
+  - first:
+      213: 198149273750404094
+    second: Apple_9
+  - first:
+      213: -1076498213294513710
+    second: Apple_10
+  - first:
+      213: -8648179027264292864
+    second: Apple_11
+  - first:
+      213: -7958550181829650181
+    second: Apple_Walk_0
+  - first:
+      213: 7424553732490230013
+    second: Apple_Walk_1
+  - first:
+      213: -6150764593652055365
+    second: Apple_Walk_2
+  - first:
+      213: 3089558878989480105
+    second: Apple_Walk_3
+  - first:
+      213: -6256286090146615678
+    second: Apple_Walk_4
+  - first:
+      213: 3286415673515860339
+    second: Apple_Walk_5
+  - first:
+      213: 3871168077262988121
+    second: Apple_Walk_6
+  - first:
+      213: -4195672918587895199
+    second: Apple_Walk_7
+  - first:
+      213: 4058172949160139747
+    second: Apple_Walk_8
+  - first:
+      213: 7291640027862111704
+    second: Apple_Walk_9
+  - first:
+      213: -6289032693105921416
+    second: Apple_Walk_10
+  - first:
+      213: -4596381730485689664
+    second: Apple_Walk_11
+  - first:
+      213: -8308645612296655415
+    second: Apple_Walk_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Apple_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf85cec96cc8d8190800000000000000
+      internalID: -7958550181829650181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df871e06840590760800000000000000
+      internalID: 7424553732490230013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2c152b03814aaa0800000000000000
+      internalID: -6150764593652055365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a072d66e6150ea20800000000000000
+      internalID: 3089558878989480105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ee79fb2f43d29a0800000000000000
+      internalID: -6256286090146615678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371603494a1bb9d20800000000000000
+      internalID: 3286415673515860339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953a71f1bd629b530800000000000000
+      internalID: 3871168077262988121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16297ddc5b9f5c5c0800000000000000
+      internalID: -4195672918587895199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb1acfcbc6815830800000000000000
+      internalID: 4058172949160139747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d59dbaf8fb113560800000000000000
+      internalID: 7291640027862111704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8727a9a161ed8b8a0800000000000000
+      internalID: -6289032693105921416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c22e463b2f5630c0800000000000000
+      internalID: -4596381730485689664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd237236d2c1bc80800000000000000
+      internalID: -8308645612296655415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Apple_Walk_9: 7291640027862111704
+      Apple_Walk_4: -6256286090146615678
+      Apple_Walk_8: 4058172949160139747
+      Apple_Walk_6: 3871168077262988121
+      Apple_Walk_1: 7424553732490230013
+      Apple_Walk_11: -4596381730485689664
+      Apple_Walk_0: -7958550181829650181
+      Apple_Walk_7: -4195672918587895199
+      Apple_Walk_10: -6289032693105921416
+      Apple_Walk_3: 3089558878989480105
+      Apple_Walk_2: -6150764593652055365
+      Apple_Walk_5: 3286415673515860339
+      Apple_Walk_12: -8308645612296655415
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

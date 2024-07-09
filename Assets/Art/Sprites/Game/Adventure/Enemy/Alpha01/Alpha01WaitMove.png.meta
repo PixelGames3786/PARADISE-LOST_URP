@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 99e6cabcb2ce91b498fe527b223c6003
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 959383764551919967
+    second: Alpha01WaitMove_0
+  - first:
+      213: 8532105893375631157
+    second: Alpha01WaitMove_1
+  - first:
+      213: 1415751945270154705
+    second: Alpha01WaitMove_2
+  - first:
+      213: 1858772593314163159
+    second: Alpha01WaitMove_3
+  - first:
+      213: -6420976972008765851
+    second: Alpha01WaitMove_4
+  - first:
+      213: -1437777910974697004
+    second: Alpha01WaitMove_5
+  - first:
+      213: -6774013155380980035
+    second: Alpha01WaitMove_6
+  - first:
+      213: 2751130295428103390
+    second: Alpha01WaitMove_7
+  - first:
+      213: -4089536294548900405
+    second: Alpha01WaitMove_8
+  - first:
+      213: -4507444321730324720
+    second: Alpha01WaitMove_9
+  - first:
+      213: -7715251058023274374
+    second: Alpha01WaitMove_10
+  - first:
+      213: 4375830121153876162
+    second: Alpha01WaitMove_11
+  - first:
+      213: 2917542064636125263
+    second: Alpha01WaitMove_12
+  - first:
+      213: -8057857707806187711
+    second: Alpha01WaitMove_13
+  - first:
+      213: 227059221783947471
+    second: Alpha01WaitMove_14
+  - first:
+      213: -1015909801038288319
+    second: Alpha01WaitMove_15
+  - first:
+      213: -5565241607992949761
+    second: Alpha01WaitMove_0
+  - first:
+      213: 7821351139379140093
+    second: Alpha01WaitMove_1
+  - first:
+      213: 1112263621970868661
+    second: Alpha01WaitMove_2
+  - first:
+      213: -6857443948688308426
+    second: Alpha01WaitMove_3
+  - first:
+      213: 3850206631969605637
+    second: Alpha01WaitMove_4
+  - first:
+      213: 916839999153914622
+    second: Alpha01WaitMove_5
+  - first:
+      213: 8614950577539581372
+    second: Alpha01WaitMove_6
+  - first:
+      213: 7510879232439644086
+    second: Alpha01WaitMove_7
+  - first:
+      213: -1094667146330063715
+    second: Alpha01WaitMove_8
+  - first:
+      213: -4830334944365734351
+    second: Alpha01WaitMove_9
+  - first:
+      213: -3378946699235231724
+    second: Alpha01WaitMove_10
+  - first:
+      213: -63521826585031747
+    second: Alpha01WaitMove_11
+  - first:
+      213: -7579202178019074884
+    second: Alpha01WaitMove_12
+  - first:
+      213: -6618436828473575051
+    second: Alpha01WaitMove_13
+  - first:
+      213: 6622871655189771999
+    second: Alpha01WaitMove_14
+  - first:
+      213: 491060340589189572
+    second: Alpha01WaitMove_15
+  - first:
+      213: 6857208013406232274
+    second: Alpha01WaitMove_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alpha01WaitMove_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff34b525e3a44c2b0800000000000000
+      internalID: 959383764551919967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df55a460c650b8c60800000000000000
+      internalID: 8532105893375631157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9b9240fdd8f6f00800000000000000
+      internalID: 1415751945270154705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637084b9f0775d0a0800000000000000
+      internalID: 1858772593314163159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508c662588eae6530800000000000000
+      internalID: -6420976972008765851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef240712f1549bc00800000000000000
+      internalID: -1437777910974697004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb50bc308e37e8770800000000000000
+      internalID: -6774013155380980035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf6c681ed00c3860800000000000000
+      internalID: 2751130295428103390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cb4bbb706fec0f0800000000000000
+      internalID: -4089536294548900405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1369ce6d5f337fcb0800000000000000
+      internalID: -4507444321730324720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418fa1521e19b11d0800000000000000
+      internalID: -7715251058023274374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb4aea3c335e1ff0800000000000000
+      internalID: 4375830121153876162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc5e4286c341d690800000000000000
+      internalID: 2917542064636125263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579387e35c69624a0800000000000000
+      internalID: -8057857707806187711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6f6905eaa29eb50800000000000000
+      internalID: 227059221783947471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9d91c27c890d600800000000000000
+      internalID: -1015909801038288319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha01WaitMove_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de5a0e6b52b92f50800000000000000
+      internalID: 6857208013406232274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Alpha01WaitMove_4: -6420976972008765851
+      Alpha01WaitMove_16: 6857208013406232274
+      Alpha01WaitMove_9: -4507444321730324720
+      Alpha01WaitMove_15: -1015909801038288319
+      Alpha01WaitMove_3: 1858772593314163159
+      Alpha01WaitMove_8: -4089536294548900405
+      Alpha01WaitMove_2: 1415751945270154705
+      Alpha01WaitMove_7: 2751130295428103390
+      Alpha01WaitMove_6: -6774013155380980035
+      Alpha01WaitMove_13: -8057857707806187711
+      Alpha01WaitMove_12: 2917542064636125263
+      Alpha01WaitMove_1: 8532105893375631157
+      Alpha01WaitMove_10: -7715251058023274374
+      Alpha01WaitMove_14: 227059221783947471
+      Alpha01WaitMove_0: 959383764551919967
+      Alpha01WaitMove_5: -1437777910974697004
+      Alpha01WaitMove_11: 4375830121153876162
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

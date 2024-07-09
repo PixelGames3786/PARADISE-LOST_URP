@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: c4bf19c68e14bc441bd01bc604e9b00e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6549071823908195137
+    second: Apple_Kyou2_0
+  - first:
+      213: -2381258466875074211
+    second: Apple_Kyou2_1
+  - first:
+      213: -4509011763293874767
+    second: Apple_Kyou2_2
+  - first:
+      213: 520391085490675316
+    second: Apple_Kyou2_3
+  - first:
+      213: -6575114372399767094
+    second: Apple_Kyou2_4
+  - first:
+      213: 524471436434724820
+    second: Apple_Kyou2_5
+  - first:
+      213: -5706305068290178535
+    second: Apple_Kyou2_6
+  - first:
+      213: -6453365967253789152
+    second: Apple_Kyou2_7
+  - first:
+      213: -6942145047753167757
+    second: Apple_Kyou2_8
+  - first:
+      213: 2003566146041006721
+    second: Apple_Kyou2_9
+  - first:
+      213: -4139379072949966359
+    second: Apple_Kyou2_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Apple_Kyou2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 150
+        height: 147
+      alignment: 9
+      pivot: {x: 0.413, y: 0.617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b4198102af2ea50800000000000000
+      internalID: 6549071823908195137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Kyou2_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 136
+        height: 147
+      alignment: 9
+      pivot: {x: 0.465, y: 0.617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5915837a0214fed0800000000000000
+      internalID: -2381258466875074211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Kyou2_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 139
+        height: 147
+      alignment: 9
+      pivot: {x: 0.455, y: 0.617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b59fc8e0b5cc61c0800000000000000
+      internalID: -4509011763293874767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Kyou2_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 139
+        height: 147
+      alignment: 9
+      pivot: {x: 0.455, y: 0.617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e93f26fecc83700800000000000000
+      internalID: 520391085490675316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Kyou2_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 145
+        height: 147
+      alignment: 9
+      pivot: {x: 0.436, y: 0.617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1eb83905080c4a0800000000000000
+      internalID: -6575114372399767094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Kyou2_5
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 139
+        height: 147
+      alignment: 9
+      pivot: {x: 0.455, y: 0.617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7d78f1efb474700800000000000000
+      internalID: 524471436434724820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Kyou2_6
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 141
+        height: 147
+      alignment: 9
+      pivot: {x: 0.45, y: 0.617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9128d8016c12fc0b0800000000000000
+      internalID: -5706305068290178535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Kyou2_7
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 237
+        height: 147
+      alignment: 9
+      pivot: {x: 0.268, y: 0.617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0262e3c18d90176a0800000000000000
+      internalID: -6453365967253789152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Kyou2_8
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 0
+        width: 156
+        height: 147
+      alignment: 9
+      pivot: {x: 0.401, y: 0.617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c6f613cdb88af90800000000000000
+      internalID: -6942145047753167757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Kyou2_9
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 0
+        width: 129
+        height: 147
+      alignment: 9
+      pivot: {x: 0.4, y: 0.617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ac5c26bc81ecb10800000000000000
+      internalID: 2003566146041006721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Kyou2_10
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 0
+        width: 107
+        height: 147
+      alignment: 9
+      pivot: {x: 0.48, y: 0.617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9a12e1aa8fd86c0800000000000000
+      internalID: -4139379072949966359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Apple_Kyou2_7: -6453365967253789152
+      Apple_Kyou2_0: 6549071823908195137
+      Apple_Kyou2_9: 2003566146041006721
+      Apple_Kyou2_10: -4139379072949966359
+      Apple_Kyou2_8: -6942145047753167757
+      Apple_Kyou2_2: -4509011763293874767
+      Apple_Kyou2_1: -2381258466875074211
+      Apple_Kyou2_3: 520391085490675316
+      Apple_Kyou2_5: 524471436434724820
+      Apple_Kyou2_6: -5706305068290178535
+      Apple_Kyou2_4: -6575114372399767094
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

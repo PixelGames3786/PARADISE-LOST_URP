@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 887e6ca3ba9c45a4eb280f7902c4a220
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5557528838822991399
+    second: Chara_ChakuchiEffect_0
+  - first:
+      213: -7995158137784331362
+    second: Chara_ChakuchiEffect_1
+  - first:
+      213: 3329772846891219490
+    second: Chara_ChakuchiEffect_2
+  - first:
+      213: 1020061337796232723
+    second: Chara_ChakuchiEffect_3
+  - first:
+      213: 439513274112725869
+    second: Chara_ChakuchiEffect_4
+  - first:
+      213: 1302158805408458566
+    second: Chara_ChakuchiEffect_5
+  - first:
+      213: -8632504087461500214
+    second: Chara_ChakuchiEffect_6
+  - first:
+      213: -4503644625144135441
+    second: Chara_ChakuchiEffect_7
+  - first:
+      213: -4462035679496313041
+    second: Chara_ChakuchiEffect_8
+  - first:
+      213: -8395592842519322251
+    second: Chara_ChakuchiEffect_9
+  - first:
+      213: -907045527274737958
+    second: Chara_ChakuchiEffect_10
+  - first:
+      213: -4518720600467120706
+    second: Chara_ChakuchiEffect_11
+  - first:
+      213: -4092464963864955268
+    second: Chara_ChakuchiEffect_12
+  - first:
+      213: -5473758522791689651
+    second: Chara_ChakuchiEffect_13
+  - first:
+      213: 7275349617112935662
+    second: Chara_ChakuchiEffect_14
+  - first:
+      213: -935191384828821406
+    second: Chara_ChakuchiEffect_15
+  - first:
+      213: 7405806507618923268
+    second: Chara_ChakuchiEffect_16
+  - first:
+      213: 3244068812884583087
+    second: Chara_ChakuchiEffect_0
+  - first:
+      213: 1146974745860439966
+    second: Chara_ChakuchiEffect_1
+  - first:
+      213: -1094803509453460719
+    second: Chara_ChakuchiEffect_2
+  - first:
+      213: 5475010680594484212
+    second: Chara_ChakuchiEffect_3
+  - first:
+      213: -7392229743211727103
+    second: Chara_ChakuchiEffect_4
+  - first:
+      213: 8249333206246148953
+    second: Chara_ChakuchiEffect_5
+  - first:
+      213: 7740923985647445246
+    second: Chara_ChakuchiEffect_6
+  - first:
+      213: 7231633642609079856
+    second: Chara_ChakuchiEffect_7
+  - first:
+      213: -6596175174397381748
+    second: Chara_ChakuchiEffect_8
+  - first:
+      213: 5526850023001819220
+    second: Chara_ChakuchiEffect_9
+  - first:
+      213: -5054821083421059382
+    second: Chara_ChakuchiEffect_10
+  - first:
+      213: 5625636549020889269
+    second: Chara_ChakuchiEffect_11
+  - first:
+      213: 3187169333774066301
+    second: Chara_ChakuchiEffect_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2a8e2c56f350d20800000000000000
+      internalID: -5557528838822991399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ffa55547fdaef00800000000000000
+      internalID: -7995158137784331362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bec28320a7ec0f0800000000000000
+      internalID: 3329772846891219490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbcd46c4352bfb40800000000000000
+      internalID: 1020061337796232723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b9c9d636896990800000000000000
+      internalID: 439513274112725869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bc22028d48b7270800000000000000
+      internalID: 1302158805408458566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef421dd0a594d6b60800000000000000
+      internalID: -8632504087461500214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0367a7dab7ceb5460800000000000000
+      internalID: -4503644625144135441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c833bcd70ada574a0800000000000000
+      internalID: -4462035679496313041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45802eb30d053bc40800000000000000
+      internalID: -8395592842519322251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac65887910ba9d9b0800000000000000
+      internalID: -907045527274737958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b038dba2a6421e40800000000000000
+      internalID: -4518720600467120706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_ChakuchiEffect_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d722f9a6f991b3c20800000000000000
+      internalID: -4092464963864955268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chara_ChakuchiEffect_9: -8395592842519322251
+      Chara_ChakuchiEffect_5: 1302158805408458566
+      Chara_ChakuchiEffect_0: -5557528838822991399
+      Chara_ChakuchiEffect_10: -907045527274737958
+      Chara_ChakuchiEffect_11: -4518720600467120706
+      Chara_ChakuchiEffect_12: -4092464963864955268
+      Chara_ChakuchiEffect_4: 439513274112725869
+      Chara_ChakuchiEffect_2: 3329772846891219490
+      Chara_ChakuchiEffect_6: -8632504087461500214
+      Chara_ChakuchiEffect_8: -4462035679496313041
+      Chara_ChakuchiEffect_3: 1020061337796232723
+      Chara_ChakuchiEffect_7: -4503644625144135441
+      Chara_ChakuchiEffect_1: -7995158137784331362
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

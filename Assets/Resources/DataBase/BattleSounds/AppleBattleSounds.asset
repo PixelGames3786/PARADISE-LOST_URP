@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da66316361e886f42bc8a00df432d671, type: 3}
+  m_Name: AppleBattleSounds
+  m_EditorClassIdentifier: 
+  SoundsAddress:
+  - Jaku1
+  - Jaku2
+  - Jaku3
+  - Kyou1
+  - Kyou2
+  - Kyou3
+  - Dash
+  - FootStep
+  Sounds:
+  - {fileID: 8300000, guid: 2e930ee59e497de42822672a6a7b8df4, type: 3}
+  - {fileID: 8300000, guid: 2e930ee59e497de42822672a6a7b8df4, type: 3}
+  - {fileID: 8300000, guid: 9d43d26fc95429a4fbb9c45c6dc83983, type: 3}
+  - {fileID: 8300000, guid: 888774ce59b766144b5e01cddb57b355, type: 3}
+  - {fileID: 8300000, guid: 888774ce59b766144b5e01cddb57b355, type: 3}
+  - {fileID: 8300000, guid: e3bd7b17df8d2a4429e0e57e475c4ddd, type: 3}
+  - {fileID: 8300000, guid: fce29ad726a7a3f4a9ead2036cc27267, type: 3}
+  - {fileID: 8300000, guid: befa9e64e58f7724db4a08aa9be0d84e, type: 3}

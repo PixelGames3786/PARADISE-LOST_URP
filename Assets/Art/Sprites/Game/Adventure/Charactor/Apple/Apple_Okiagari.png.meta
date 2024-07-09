@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: 0c2ef38fdcfb6d343a03c61eee0f111f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 215861817362210575
+    second: Apple_Okiagari_0
+  - first:
+      213: 4890668018353986089
+    second: Apple_Okiagari_1
+  - first:
+      213: 4311328672988639098
+    second: Apple_Okiagari_2
+  - first:
+      213: -4119306377397309746
+    second: Apple_Okiagari_3
+  - first:
+      213: -2558193315451325405
+    second: Apple_Okiagari_4
+  - first:
+      213: -2852703305917625900
+    second: Apple_Okiagari_5
+  - first:
+      213: 8413722817464985537
+    second: Apple_Okiagari_6
+  - first:
+      213: -6380945278881899867
+    second: Apple_Okiagari_7
+  - first:
+      213: -8313191313185292412
+    second: Apple_Okiagari_8
+  - first:
+      213: -5747067264539940375
+    second: Apple_Okiagari_9
+  - first:
+      213: -1976578361203804772
+    second: Apple_Okiagari_10
+  - first:
+      213: 7424247452579770512
+    second: Apple_Okiagari_11
+  - first:
+      213: -8135940878652094094
+    second: Apple_Okiagari_12
+  - first:
+      213: -2259247515643407995
+    second: Apple_Okiagari_13
+  - first:
+      213: -2984917407432575579
+    second: Apple_Okiagari_14
+  - first:
+      213: -2618303073781018257
+    second: Apple_Okiagari_15
+  - first:
+      213: -7160803775911733380
+    second: Apple_Okiagari_16
+  - first:
+      213: 6780380125731132522
+    second: Apple_Okiagari_17
+  - first:
+      213: -7415757877210913462
+    second: Apple_Okiagari_18
+  - first:
+      213: -3311460021692587749
+    second: Apple_Okiagari_19
+  - first:
+      213: 8708871713975637400
+    second: Apple_Okiagari_20
+  - first:
+      213: -813070659363823797
+    second: Apple_Okiagari_21
+  - first:
+      213: 1083494636154297840
+    second: Apple_Okiagari_22
+  - first:
+      213: 9119970468008986756
+    second: Apple_Okiagari_23
+  - first:
+      213: 5550488870499593899
+    second: Apple_Okiagari_24
+  - first:
+      213: 4100612619559624125
+    second: Apple_Okiagari_25
+  - first:
+      213: 5031668578974591818
+    second: Apple_Okiagari_26
+  - first:
+      213: -6580058849341844629
+    second: Apple_Okiagari_27
+  - first:
+      213: -8067020785666358549
+    second: Apple_Okiagari_28
+  - first:
+      213: 7897235315326535873
+    second: Apple_Okiagari_0
+  - first:
+      213: -1669663640836018793
+    second: Apple_Okiagari_1
+  - first:
+      213: -305248261868844576
+    second: Apple_Okiagari_2
+  - first:
+      213: -6062596086207629730
+    second: Apple_Okiagari_3
+  - first:
+      213: -1758876850284122591
+    second: Apple_Okiagari_4
+  - first:
+      213: -1509614182617988846
+    second: Apple_Okiagari_5
+  - first:
+      213: -130769546615952382
+    second: Apple_Okiagari_6
+  - first:
+      213: 8716895583560647388
+    second: Apple_Okiagari_7
+  - first:
+      213: -6688454722909206540
+    second: Apple_Okiagari_8
+  - first:
+      213: -5722933091998825642
+    second: Apple_Okiagari_9
+  - first:
+      213: 3303118599245071490
+    second: Apple_Okiagari_10
+  - first:
+      213: -1992090650379016933
+    second: Apple_Okiagari_11
+  - first:
+      213: 6295802009236910420
+    second: Apple_Okiagari_12
+  - first:
+      213: -4457897508181070948
+    second: Apple_Okiagari_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Apple_Okiagari_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 180
+        height: 24
+      alignment: 9
+      pivot: {x: 0.278, y: 4.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fd170ed25eef200800000000000000
+      internalID: 215861817362210575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 215
+        width: 180
+        height: 25
+      alignment: 9
+      pivot: {x: 0.278, y: 3.98}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a5a5c96a42fd340800000000000000
+      internalID: 4890668018353986089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 213
+        width: 180
+        height: 27
+      alignment: 9
+      pivot: {x: 0.278, y: 3.68}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fa17fe59ae4db30800000000000000
+      internalID: 4311328672988639098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 208
+        width: 175
+        height: 32
+      alignment: 9
+      pivot: {x: 0.285, y: 3.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece6b3ebca845d6c0800000000000000
+      internalID: -4119306377397309746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_4
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 191
+        width: 171
+        height: 49
+      alignment: 9
+      pivot: {x: 0.292, y: 2.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324beb5cbb87f7cd0800000000000000
+      internalID: -2558193315451325405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_5
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 186
+        width: 163
+        height: 54
+      alignment: 9
+      pivot: {x: 0.305, y: 1.84}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9823125792968d0800000000000000
+      internalID: -2852703305917625900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_6
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 163
+        width: 154
+        height: 77
+      alignment: 9
+      pivot: {x: 0.322, y: 1.293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7699d135c83c470800000000000000
+      internalID: 8413722817464985537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 153
+        height: 77
+      alignment: 9
+      pivot: {x: 0.325, y: 1.293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aad90993145277a0800000000000000
+      internalID: -6380945278881899867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 142
+        width: 161
+        height: 73
+      alignment: 9
+      pivot: {x: 0.31, y: 1.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f3abbbb8c91ac80800000000000000
+      internalID: -8313191313185292412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 86
+        width: 101
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e922dca5c05e30b0800000000000000
+      internalID: -5747067264539940375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 74
+        width: 61
+        height: 139
+      alignment: 9
+      pivot: {x: 0.83, y: 0.715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9539bde378c194e0800000000000000
+      internalID: -1976578361203804772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 62
+        width: 72
+        height: 146
+      alignment: 9
+      pivot: {x: 0.72, y: 0.68}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090bd9709b9380760800000000000000
+      internalID: 7424247452579770512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 60
+        width: 82
+        height: 148
+      alignment: 9
+      pivot: {x: 0.64, y: 0.671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279cc5e70e4571f80800000000000000
+      internalID: -8135940878652094094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 42
+        width: 67
+        height: 166
+      alignment: 9
+      pivot: {x: 0.57, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5811462ca5a85a0e0800000000000000
+      internalID: -2259247515643407995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_14
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 8
+        width: 42
+        height: 183
+      alignment: 9
+      pivot: {x: 0.32, y: 0.543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f916ce617396d0800000000000000
+      internalID: -2984917407432575579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_Okiagari_15
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 11
+        width: 47
+        height: 180
+      alignment: 9
+      pivot: {x: 0.38, y: 0.552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6118fc0a3be9abd0800000000000000
+      internalID: -2618303073781018257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Apple_Okiagari_10: -1976578361203804772
+      Apple_Okiagari_9: -5747067264539940375
+      Apple_Okiagari_12: -8135940878652094094
+      Apple_Okiagari_14: -2984917407432575579
+      Apple_Okiagari_15: -2618303073781018257
+      Apple_Okiagari_5: -2852703305917625900
+      Apple_Okiagari_8: -8313191313185292412
+      Apple_Okiagari_11: 7424247452579770512
+      Apple_Okiagari_13: -2259247515643407995
+      Apple_Okiagari_1: 4890668018353986089
+      Apple_Okiagari_0: 215861817362210575
+      Apple_Okiagari_6: 8413722817464985537
+      Apple_Okiagari_4: -2558193315451325405
+      Apple_Okiagari_7: -6380945278881899867
+      Apple_Okiagari_3: -4119306377397309746
+      Apple_Okiagari_2: 4311328672988639098
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

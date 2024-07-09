@@ -1,0 +1,10 @@
+#scene=1
+#speaker=None
+{……目覚ましが鳴った。}
+{スマホを手に取りそれを止める。}
+{数分布団の中で寝ぼけて、ようやく私はベッドから降りた。}
+{ぬるいお湯を飲みサンドイッチを食べた。}
+{さて……学校へ行かなければ。}
+#changeback=0,0,0,1
+#change=SchoolZone,Adventure,Loading,Normal,0,0,0,true
+#scene=2

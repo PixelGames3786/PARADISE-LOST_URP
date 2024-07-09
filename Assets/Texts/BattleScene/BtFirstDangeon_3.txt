@@ -1,0 +1,13 @@
+#BattleScene=FirstDangeon_3
+#btivent=1
+#MakeBattleWall=-5,37
+#MakeEnemy=0,2,0,33,-3,1
+#GekihaWait
+#MakeEnemy=0,2,0,33,-3,1
+#MakeEnemy=1,1,0,33,-3,1
+#GekihaWait
+#DestroyBattleWall
+#FlagAdd=FD_3_BattleFlag01,true
+#BGMStart=0
+#BattleEnd
+#IventEnd

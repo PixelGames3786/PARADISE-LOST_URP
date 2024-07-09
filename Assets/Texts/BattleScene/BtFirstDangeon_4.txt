@@ -1,0 +1,9 @@
+#BattleScene=FirstDangeon_4
+
+#btivent=1
+#BattleNovelStart=1
+#GekihaWait
+#DestroyObject=BattleCharaWall
+#DestroyObject=BattleCharaWall2
+#BattleEnd
+#IventEnd

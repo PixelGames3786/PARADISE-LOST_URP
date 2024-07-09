@@ -1,0 +1,523 @@
+#adscene=SchoolZone
+#title=通学路,0,-1
+#target=学校へ向かおう
+#target=帰ろう
+
+#ivent=1
+	#NovelStart=None
+	#AddCharaImage=CharaTatie/Apple,Apple_Normal,Left,Apple,1
+	{（学校とは真逆の方向だ）}
+	{（今は特に用はないな……）}
+	#NovelEnd=0
+#Iventend
+
+#ivent=2
+	#NovelStart=None
+	#AddCharaImage=CharaTatie/Apple,Apple_Normal,Left,Apple,1
+	{（コンビニだ）}
+	#CharaImageChange=Apple,Apple_Komari,1
+	{（今は金欠だし寄るのはやめておこう）}
+	#NovelEnd=0
+#Iventend
+
+#ivent=3
+	#SpecialIvent=SchoolZone,1,0
+	#NovelStart=None
+	#AddCharaImage=CharaTatie/Apple,Apple_Komari,Left,Apple,1
+	{……？}
+	#NovelEnd=0
+#Iventend
+
+#ivent=4
+	#SpecialIvent=SchoolZone,2,0
+	#NovelStart=None
+	#AddCharaImage=CharaTatie/Apple,Apple_Komari,Left,Apple,1
+	{──なんだろう、この違和感は──}
+	#NovelEnd=0
+#Iventend
+
+#ivent=5
+	#SpecialIvent=SchoolZone,3,0
+	#AnotherMapChange=FirstDangeon_1,0,Normal,Loading,0,0,false
+#Iventend
+#SceneChange=FirstDangeon_1,Adventure,Black
+
+
+#ivent=6
+	#NovelStart=None
+	#AddCharaImage=CharaTatie/Apple,Apple_Normal,Left,Apple,1
+	#SENumChange=1
+	{「本当ならここまで来れてるはずがないんだけど……」}
+	{「バグかな？」}
+	{「バグだったら報告をよろしくお願いします」}
+	#NovelEnd=0
+#Iventend
+
+
+#ivent=7
+	#MovieIn=Chara,-3.7
+	#WaitSeconds=1
+	#NovelStart=アップル
+	#AddCharaImage=CharaTatie/Apple,Apple_Zutuu,Left,Apple,1
+	#SENumChange=1
+	{「ん……」}
+	#CharaImageChange=Apple,Apple_Odoroki
+	{「！？」}
+	{「あれ……」}
+	{ついさっきまでよくわからない場所にいたのに……}
+	#CharaImageChange=Apple,Apple_Komari
+	{（まさか、全部夢？）}
+	{「いやいや、そんなはず……」}
+	#CharaImageChange=Apple,Apple_Odoroki
+	{「そうだ、学校！」}
+	#CharaImageChange=Apple,Apple_Normal
+	{「夢の話はあとにして、早くいかないと」}
+	#NovelEnd=1
+	#CameraMove=Chara,0,-10,1
+	#TargetSinkou
+	#WaitSeconds=1
+	#CharaCanMove
+#Iventend
+
+
+#ivent=8
+
+	#ivscene=1
+		#CharaStop
+
+		#FlagCheck=FirstKitaku,0,2
+
+		#FlagAdd=GotoRoukaFromSchoolZone,true
+		#AnotherMapChange=ClassRoom,1,Normal,Loading,0,0,true
+		#DestroyObject=Charactor
+	#next=3
+
+	#ivscene=2
+		#MovieIn=46,0
+		#SpecialIvent=SchoolZone,4,0
+		#CameraMove=19,0,-10,1.5
+		#WaitSeconds=1.5
+		#FukidashiIn=19.47,-0.85,5,Mugon
+		#WaitSeconds=4
+		#AnotherMapChange=ClassRoom,0,Normal,Loading,1,1,true
+		#DestroyObject=Charactor
+	#next=3
+
+	#ivscene=3
+#Iventend
+
+
+#ivent=9
+	#FlagCheck=FirstKitaku,0,1
+	#TargetDetail=1
+	#next=1
+
+		#ivscene=1
+#Iventend
+
+
+#ivent=10
+	#FlagAdd=FirstPortal,true
+	#CharaStop
+	#CharaInitialize
+	#TargetHide
+	#BGMFadeOut
+
+	#BlackFade=Fader,1.5,1
+	#MovieIn=19.5,-3
+	#NovelStart=アップル,林檎の妖精
+	#AddCharaImage=CharaTatie/Apple,Apple_Komari,Left,Apple,1
+	#AddCharaImage=CharaTatie/GoldenApple,GoldenApple_Normal,Right,GoldenApple,1
+	#CharaImageDim=GoldenApple
+	#SENumChange=1
+
+	{「……これは？」}
+
+	#CharaImageDim=Apple
+	#CharaImageBright=GoldenApple
+	#CharaImageChange=GoldenApple,GoldenApple_Komari
+	#SENumChange=2
+
+	{「うーん……」}
+
+	#CharaImageDim=GoldenApple
+	#CharaImageBright=Apple
+	#CharaImageChange=Apple,Apple_Zutuu
+	#SENumChange=1
+
+	{（……怪しい）}
+	{（やっぱり家に誘うのやめとく──）}
+
+	#SpecialIvent=SchoolZone,5,0
+
+	#CharaImageFadeOut=GoldenApple
+	#CharaImageMove=Apple,660,1
+	#CharaScaleChange=Apple,-1,1
+	#WaitSeconds=1
+	#AddCharaImage=CharaTatie/Berry,Berry_Odoroki,Left,Berry,1
+	#SpeakerWindowChange=Left,？？？
+	#SpeakerWindowChange=Right,アップル
+	#CharaImageChange=Apple,Apple_Odoroki
+	#CharaImageDim=Berry
+
+	{「えっ」}
+
+	#CharaImageBright=Berry
+	#CharaImageDim=Apple
+	#SENumChange=3
+
+	{「あっ……」}
+	{「今朝の！」}
+
+	#IventingStart
+	#FukidashiIn=22.2,-0.85,-5,Hatena
+	#WaitSeconds=1.2
+	#IventingEnd
+
+	#CharaImageBright=Apple
+	#CharaImageDim=Berry
+	#SENumChange=1
+
+	{「今朝の……？」}
+	{（話が見えてこない。どうしよう……）}
+	{（というか、今どこから出てきたんだ？）}
+	{（まるであの空間のゆがみから出てきたような……）}
+
+	#FukidashiOut
+	#CharaImageFadeIn=GoldenApple
+	#CharaImageMove=Apple,500,1
+	#CharaImageMove=GoldenApple,750,1
+	#CharaImageChange=GoldenApple,GoldenApple_Normal
+	#SpeakerWindowChange=Right,林檎の妖精
+	#CharaImageDim=Apple
+	#SENumChange=2
+
+	{「面識はないのかい？」}
+
+	#CharaImageChange=Apple,Apple_Komari
+	#SpeakerWindowChange=Right,アップル
+	#CharaImageDim=GoldenApple
+	#CharaImageBright=Apple
+	#SENumChange=1
+
+	{「あるわけないじゃん……」}
+
+	#CharaImageChange=Berry,Berry_Normal
+	#CharaImageDim=Apple
+	#CharaImageBright=Berry
+	#SENumChange=3
+
+	{「その林檎喋るんだ、すごいね」}
+
+	#CharaImageChange=Apple,Apple_Odoroki
+	#CharaImageChange=GoldenApple,GoldenApple_Bikkuri
+	#CharaImageDim=Berry
+	#CharaImageDim=GoldenApple
+	#CharaImageBright=Apple
+	#SENumChange=1
+
+	{「えっ」}
+	{「この林檎が見えてるの……？」}
+
+	#CharaImageDim=Apple
+	#CharaImageBright=Berry
+	#SENumChange=3
+
+	{「？　ああ、見えてるけど」}
+	{「ペットかなにか？」}
+
+	#CharaImageDim=Berry
+	#CharaImageBright=Apple
+	#SENumChange=1
+
+	{「……え、どういうこと？」}
+	{「すれ違った人とかには見えてなかったのに……」}
+
+	#SpeakerWindowChange=Right,林檎の妖精
+	#CharaImageChange=GoldenApple,GoldenApple_Normal
+	#CharaImageDim=Apple
+	#CharaImageBright=GoldenApple
+	#SENumChange=2
+
+	{「わからない……何か条件があるのかも？」}
+
+	#CharaImageDim=GoldenApple
+	#CharaImageBright=Berry
+	#SENumChange=3
+
+	{「そういえば聞きたいことがあったんだ」}
+	{「今人探しをしているんだけれど……今朝キャッシュの中で見かけなかった？」}
+	{「こう……鞭を持ってる人」}
+
+	#CharaImageDim=Berry
+	#CharaImageBright=Apple
+	#SENumChange=1
+
+	{「キャッ……シュって？」}
+	{「よく分からないけど……とりあえず鞭を持った人なんて見かけてないよ」}
+
+	#CharaImageBright=Berry
+	#CharaImageDim=Apple
+	#SENumChange=3
+
+	{「？　じゃあ事故で入っちゃったとかかな……」}
+	{「そんな話は聞いたことないけれど……見てないんならいいや。ありがとう！」}
+
+	#IventingStart
+	#BlackFade=Fader,1.5,11
+	#CharaImageFadeOut=Berry
+	#CharaImageMove=Apple,-660,1
+	#CharaImageMove=GoldenApple,660,1
+	#CharaScaleChange=Apple,1,1
+	#SpeakerWindowChange=Left,アップル
+	#SpeakerWindowChange=Right,林檎の妖精
+	#DestroyObject=BerryObject
+	#MovieOut=Chara,0
+	#TextShitei=
+	#CharaImageChange=Apple,Apple_Komari
+	#CharaImageBright=Apple
+	#IventingEnd
+
+	#SENumChange=1
+
+	{「何だったんだ今の……」}
+	{「（というか、人を探すなら写真なりなんなり用意するべきでしょ……）}
+	{（よく分からない事が起こりすぎて疲れる……）}
+
+	#NovelEnd=2
+	#CharaCanMove
+	#TargetRise
+	#BGMFadeIn
+	#DestroyObject=LeftWall
+	#DestroyObject=SecondDangeonNovel
+	#FlagAdd=FirstPortal,true
+	#FlagAdd=SecondDangeonNovel,true
+
+#Iventend
+
+
+#ivent=11
+	#AnotherMapChange=RingoRoom,0,Normal,GetUp,2,3,false,0
+#Iventend
+
+#ivent=12
+	#CharaEnable=true
+	#WaitSeconds=0.1
+	#NovelStart=アップル
+	#AddCharaImage=CharaTatie/Apple,Apple_Normal,Left,Apple,1
+
+	#SENumChange=1
+	{「さて、今日も一日が始まるね」}
+
+	#SpeakerWindowIn=Right,林檎の妖精,1
+	#AddCharaImage=CharaTatie/GoldenApple,GoldenApple_Normal,Right,GoldenApple,1
+	#CharaImageDim=Apple
+
+	#SENumChange=2
+	{「そうだねえ……」}
+
+	#CharaImageDim=GoldenApple
+	#CharaImageBright=Apple
+
+	#SENumChange=1
+	{「そういえば、私がリアルに帰ってた間はどうしてたの？」}
+
+	#CharaImageDim=Apple
+	#CharaImageBright=GoldenApple
+
+	#SENumChange=2
+	{「散歩したりしてたよ」}
+	{「外の世界は新鮮だから楽しかった！」}
+	{「僕、ずっとあの変な世界にいたもんだから……」}
+
+	#CharaImageDim=GoldenApple
+	#CharaImageBright=Apple
+
+	#SENumChange=1
+	{「ああ、確かに……」}
+
+	#NovelEnd=2
+	#CharaCanMove
+	#TargetDetail=0
+
+#Iventend
+
+
+#ivent=13
+	#CharaStop
+	#CharaInitialize
+	#TargetHide
+	#BGMFadeOut
+
+	#CameraMove=29,-3,-10,0.5
+	#WaitSeconds=0.5
+	#MovieIn=29,-3
+	#NovelStart=アップル,？？？
+	#AddCharaImage=CharaTatie/Apple,Apple_Normal,Left,Apple,1,-500
+	#AddCharaImage=CharaTatie/GoldenApple,GoldenApple_Normal,Left,GoldenApple,1,-750
+	#AddCharaImage=CharaTatie/Berry,Berry_Aisatsu,Right,Berry,1
+	#CharaImageDim=GoldenApple
+	#CharaImageDim=Apple
+	#SENumChange=1
+
+	{「おはよう！」}
+
+	#CharaImageBright=Apple
+	#CharaImageChange=GoldenApple,GoldenApple_Komari
+	#SENumChange=2
+
+	{「うーん……」}
+
+	#CharaImageDim=GoldenApple
+	#CharaImageBright=Apple
+	#CharaImageChange=Apple,Apple_Zutuu
+	#SENumChange=1
+
+	{（……怪しい）}
+	{（やっぱり家に誘うのやめとく──）}
+
+	#SpecialIvent=SchoolZone,5,0
+
+	#CharaImageFadeOut=GoldenApple
+	#CharaImageMove=Apple,660,1
+	#CharaScaleChange=Apple,-1,1
+	#WaitSeconds=1
+	#AddCharaImage=CharaTatie/Berry,Berry_Odoroki,Left,Berry,1
+	#SpeakerWindowChange=Left,？？？
+	#SpeakerWindowChange=Right,アップル
+	#CharaImageChange=Apple,Apple_Odoroki
+	#CharaImageDim=Berry
+
+	{「えっ」}
+
+	#CharaImageBright=Berry
+	#CharaImageDim=Apple
+	#SENumChange=3
+
+	{「あっ……」}
+	{「今朝の！」}
+
+	#IventingStart
+	#FukidashiIn=22.2,-0.85,-5,Hatena
+	#WaitSeconds=1.2
+	#IventingEnd
+
+	#CharaImageBright=Apple
+	#CharaImageDim=Berry
+	#SENumChange=1
+
+	{「今朝の……？」}
+	{（話が見えてこない。どうしよう……）}
+	{（というか、今どこから出てきたんだ？）}
+	{（まるであの空間のゆがみから出てきたような……）}
+
+	#FukidashiOut
+	#CharaImageFadeIn=GoldenApple
+	#CharaImageMove=Apple,500,1
+	#CharaImageMove=GoldenApple,750,1
+	#CharaImageChange=GoldenApple,GoldenApple_Normal
+	#SpeakerWindowChange=Right,林檎の妖精
+	#CharaImageDim=Apple
+	#SENumChange=2
+
+	{「面識はないのかい？」}
+
+	#CharaImageChange=Apple,Apple_Komari
+	#SpeakerWindowChange=Right,アップル
+	#CharaImageDim=GoldenApple
+	#CharaImageBright=Apple
+	#SENumChange=1
+
+	{「あるわけないじゃん……」}
+
+	#CharaImageChange=Berry,Berry_Normal
+	#CharaImageDim=Apple
+	#CharaImageBright=Berry
+	#SENumChange=3
+
+	{「その林檎喋るんだ、すごいね」}
+
+	#CharaImageChange=Apple,Apple_Odoroki
+	#CharaImageChange=GoldenApple,GoldenApple_Bikkuri
+	#CharaImageDim=Berry
+	#CharaImageDim=GoldenApple
+	#CharaImageBright=Apple
+	#SENumChange=1
+
+	{「えっ」}
+	{「この林檎が見えてるの……？」}
+
+	#CharaImageDim=Apple
+	#CharaImageBright=Berry
+	#SENumChange=3
+
+	{「？　ああ、見えてるけど」}
+	{「ペットかなにか？」}
+
+	#CharaImageDim=Berry
+	#CharaImageBright=Apple
+	#SENumChange=1
+
+	{「……え、どういうこと？」}
+	{「すれ違った人とかには見えてなかったのに……」}
+
+	#SpeakerWindowChange=Right,林檎の妖精
+	#CharaImageChange=GoldenApple,GoldenApple_Normal
+	#CharaImageDim=Apple
+	#CharaImageBright=GoldenApple
+	#SENumChange=2
+
+	{「わからない……何か条件があるのかも？」}
+
+	#CharaImageDim=GoldenApple
+	#CharaImageBright=Berry
+	#SENumChange=3
+
+	{「そういえば聞きたいことがあったんだ」}
+	{「今人探しをしているんだけれど……今朝キャッシュの中で見かけなかった？」}
+	{「こう……鞭を持ってる人」}
+
+	#CharaImageDim=Berry
+	#CharaImageBright=Apple
+	#SENumChange=1
+
+	{「キャッ……シュって？」}
+	{「よく分からないけど……とりあえず鞭を持った人なんて見かけてないよ」}
+
+	#CharaImageBright=Berry
+	#CharaImageDim=Apple
+	#SENumChange=3
+
+	{「？　じゃあ事故で入っちゃったとかかな……」}
+	{「そんな話は聞いたことないけれど……見てないんならいいや。ありがとう！」}
+
+	#IventingStart
+	#BlackFade=Fader,1.5,11
+	#CharaImageFadeOut=Berry
+	#CharaImageMove=Apple,-660,1
+	#CharaImageMove=GoldenApple,660,1
+	#CharaScaleChange=Apple,1,1
+	#SpeakerWindowChange=Left,アップル
+	#SpeakerWindowChange=Right,林檎の妖精
+	#DestroyObject=BerryObject
+	#MovieOut=Chara,0
+	#TextShitei=
+	#CharaImageChange=Apple,Apple_Komari
+	#CharaImageBright=Apple
+	#IventingEnd
+
+	#SENumChange=1
+
+	{「何だったんだ今の……」}
+	{「（というか、人を探すなら写真なりなんなり用意するべきでしょ……）}
+	{（よく分からない事が起こりすぎて疲れる……）}
+
+	#NovelEnd=2
+	#CharaCanMove
+	#TargetRise
+	#BGMFadeIn
+	#DestroyObject=LeftWall
+	#DestroyObject=SecondDangeonNovel
+	#FlagAdd=FirstPortal,true
+
+#Iventend

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Charactor
+  - Wall
+  - Ground
+  - EnemyWall
+  - Bit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessLayer
+  - Charactor
+  - Enemy
+  - Ground
+  - DropBit
+  - Attack
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackHaikei
+    uniqueID: 381251995
+    locked: 0
+  - name: BackEnemy
+    uniqueID: 2264006317
+    locked: 0
+  - name: BackParticle
+    uniqueID: 725505377
+    locked: 0
+  - name: Charactor
+    uniqueID: 1846286627
+    locked: 0
+  - name: FlontHaikei
+    uniqueID: 2347021559
+    locked: 0
+  - name: FlontEnemy
+    uniqueID: 1379352587
+    locked: 0
+  - name: FlontParticle
+    uniqueID: 1766260361
+    locked: 0
+  - name: BackUI
+    uniqueID: 2745950007
+    locked: 0
+  - name: FlontUI
+    uniqueID: 178054033
+    locked: 0
+  - name: Fader
+    uniqueID: 1985964465
+    locked: 0

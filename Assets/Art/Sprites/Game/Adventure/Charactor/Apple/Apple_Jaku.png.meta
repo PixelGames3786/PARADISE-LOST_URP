@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: fd6fd1a1201f31943b035457bb5a7792
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 112323451075330657
+    second: AppleAttackKari_0
+  - first:
+      213: 2985968852910805646
+    second: AppleAttackKari_1
+  - first:
+      213: -7117571862142431697
+    second: AppleAttackKari_2
+  - first:
+      213: 7796686061704081620
+    second: AppleAttackKari_3
+  - first:
+      213: 4843033769060399071
+    second: AppleAttackKari_4
+  - first:
+      213: -4404389550625886063
+    second: AppleAttackKari_5
+  - first:
+      213: -8315312695390340480
+    second: AppleAttackKari_6
+  - first:
+      213: 6208982642850629815
+    second: AppleAttackKari_7
+  - first:
+      213: -769088552391992157
+    second: AppleAttackKari_8
+  - first:
+      213: 5969107604248924063
+    second: AppleAttackKari_9
+  - first:
+      213: 1407999899189327428
+    second: AppleAttackJaku2_01
+  - first:
+      213: 4056133253354196019
+    second: AppleAttackJaku2_02
+  - first:
+      213: 2010826633089947080
+    second: AppleAttackJaku2_03
+  - first:
+      213: 2170902591259113937
+    second: AppleAttackJaku2_04
+  - first:
+      213: 5187344716361847112
+    second: AppleAttackJaku2_05
+  - first:
+      213: 5897809482049217477
+    second: AppleAttackJaku2_06
+  - first:
+      213: -4864936677402932911
+    second: AppleAttackJaku2_07
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AppleAttackKari_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 102
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1628a49659d0f8100800000000000000
+      internalID: 112323451075330657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackKari_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 239
+        width: 103
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e821124f9da407920800000000000000
+      internalID: 2985968852910805646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackKari_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 239
+        width: 103
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e4fa51a1e493d90800000000000000
+      internalID: -7117571862142431697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackKari_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 239
+        width: 101
+        height: 181
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d07c1d1aa4633c60800000000000000
+      internalID: 7796686061704081620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackKari_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 239
+        width: 96
+        height: 181
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7f010bd89e53340800000000000000
+      internalID: 4843033769060399071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackKari_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 239
+        width: 135
+        height: 181
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19070860a0770e2c0800000000000000
+      internalID: -4404389550625886063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackKari_6
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 239
+        width: 175
+        height: 181
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a76f2f8231a9c80800000000000000
+      internalID: -8315312695390340480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackKari_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 235
+        width: 161
+        height: 185
+      alignment: 9
+      pivot: {x: 0.218, y: 0.489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b88dab21dcba2650800000000000000
+      internalID: 6208982642850629815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackKari_8
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 228
+        width: 155
+        height: 192
+      alignment: 9
+      pivot: {x: 0.226, y: 0.471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac1bd15906a355f0800000000000000
+      internalID: -769088552391992157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackKari_9
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 228
+        width: 153
+        height: 192
+      alignment: 9
+      pivot: {x: 0.23, y: 0.471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f07598db786d250800000000000000
+      internalID: 5969107604248924063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackJaku2_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 138
+        height: 206
+      alignment: 9
+      pivot: {x: 0.25, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44637fac2783a8310800000000000000
+      internalID: 1407999899189327428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackJaku2_02
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3
+        width: 117
+        height: 236
+      alignment: 9
+      pivot: {x: 0.415, y: 0.385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c83df14b74a4830800000000000000
+      internalID: 4056133253354196019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackJaku2_03
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 15
+        width: 140
+        height: 224
+      alignment: 9
+      pivot: {x: 0.347, y: 0.405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c598324b24e7eb10800000000000000
+      internalID: 2010826633089947080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackJaku2_04
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 58
+        width: 180
+        height: 181
+      alignment: 9
+      pivot: {x: 0.275, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d979f1a768902e10800000000000000
+      internalID: 2170902591259113937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackJaku2_05
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 67
+        width: 169
+        height: 171
+      alignment: 9
+      pivot: {x: 0.305, y: 0.531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8415f3a29862df740800000000000000
+      internalID: 5187344716361847112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackJaku2_06
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 66
+        width: 161
+        height: 169
+      alignment: 9
+      pivot: {x: 0.34, y: 0.537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3697ad97a39d150800000000000000
+      internalID: 5897809482049217477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleAttackJaku2_07
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 59
+        width: 157
+        height: 169
+      alignment: 9
+      pivot: {x: 0.343, y: 0.537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15901a01ed54c7cb0800000000000000
+      internalID: -4864936677402932911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AppleAttackKari_5: -4404389550625886063
+      AppleAttackJaku2_06: 5897809482049217477
+      AppleAttackJaku2_05: 5187344716361847112
+      AppleAttackKari_8: -769088552391992157
+      AppleAttackKari_7: 6208982642850629815
+      AppleAttackKari_3: 7796686061704081620
+      AppleAttackJaku2_04: 2170902591259113937
+      AppleAttackKari_2: -7117571862142431697
+      AppleAttackKari_1: 2985968852910805646
+      AppleAttackKari_9: 5969107604248924063
+      AppleAttackJaku2_01: 1407999899189327428
+      AppleAttackKari_0: 112323451075330657
+      AppleAttackKari_4: 4843033769060399071
+      AppleAttackJaku2_03: 2010826633089947080
+      AppleAttackJaku2_07: -4864936677402932911
+      AppleAttackJaku2_02: 4056133253354196019
+      AppleAttackKari_6: -8315312695390340480
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
